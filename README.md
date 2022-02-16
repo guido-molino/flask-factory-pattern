@@ -14,3 +14,10 @@ A dockerized base environment to develop minimal web applications.
 - [Pipenv](https://pipenv.pypa.io/en/latest/) (python package manager)
 - Flask Framework 2.0.3
 - MySQL 8.0
+
+## Docker
+
+Containers | Name | Port 
+--- | --- | --- | 
+_app_ | flask-app | 8007 | 
+_db_ | flask-db | 33073 | 
