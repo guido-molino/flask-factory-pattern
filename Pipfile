@@ -1,0 +1,15 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+pre-commit = "*"
+
+[packages]
+flask = "*"
+flask_cors = "*"
+flask-mysqldb = "*"
+
+[requires]
+python_version = "3.8"
